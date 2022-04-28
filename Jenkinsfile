@@ -16,9 +16,7 @@ pipeline {
             
       steps {
           
-        sh ''' mvn clean package
-        
-        echo $env.WORKSPACE'''
+        sh ''' mvn clean package'''
           
       }
       
