@@ -4,7 +4,7 @@ node {
         stage('Clone sources') {
             steps {
                 
-                 git url: 'https://github.com/manohar369/hello-world.git', branch: 'main'
+                 git url: 'https://github.com/manohar369/hello-world.git', branch: 'dev'
             }
         }
 
