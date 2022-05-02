@@ -23,3 +23,8 @@ Java-jdk
 Maven
 ![image](https://user-images.githubusercontent.com/102150088/166206318-a8f1f053-05d7-4779-b00e-884d08645034.png)
 
+Deployment (Freestyle)
+![image](https://user-images.githubusercontent.com/102150088/166206965-573f80f1-290f-49d4-97b5-02e6f2400477.png)
+
+Deployment (Pipeline-Main)
+![image](https://user-images.githubusercontent.com/102150088/166207442-daed0274-0d6a-4242-9c4c-e75dcbcf1df5.png)
